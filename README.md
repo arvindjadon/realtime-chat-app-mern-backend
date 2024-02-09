@@ -19,3 +19,19 @@ nodemon server.js
 adam O Ceallaigh : you can use
 nodemon --inspect server.js
 and onpen up browser debug console for the node server which is really handy too.
+
+# atlas:
+
+Create Cluster or Build database : default except free plan
+
+Database Access: Default except
+name - admin
+Autogenerate Secure Password and copy this
+built-in-role - Read and write to any database
+
+Network Access:
+Current IP address if it doesn't work allow access from anywhere
+
+# Clusters or Database Deployments:
+
+Connect: Connect to your application
