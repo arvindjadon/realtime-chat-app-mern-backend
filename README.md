@@ -8,3 +8,14 @@ node - production
 nodemon - development
 
 npm i express mongoose
+
+Using "type": "module" allows us to use ES6 syntax, ES6 modules in Node.js
+const express = require('express');
+import express from 'express';
+
+npm i -g nodemon
+nodemon server.js
+
+adam O Ceallaigh : you can use
+nodemon --inspect server.js
+and onpen up browser debug console for the node server which is really handy too.
