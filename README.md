@@ -37,3 +37,5 @@ Current IP address if it doesn't work allow access from anywhere
 Connect: Connect to your application
 
 npm i cors
+
+npm install socket.io
