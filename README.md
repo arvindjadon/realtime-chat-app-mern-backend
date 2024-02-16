@@ -35,3 +35,5 @@ Current IP address if it doesn't work allow access from anywhere
 # Clusters or Database Deployments:
 
 Connect: Connect to your application
+
+npm i cors
